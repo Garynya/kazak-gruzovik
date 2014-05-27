@@ -79,9 +79,11 @@ color:#666;
 p {
 margin-bottom:1em;
 }
+/*
 h2 {
 margin:1.5em 0 0.25em;	
 }
+*/
 h3 {
 font-size:1.2em;
 margin-bottom:0.5em;	
@@ -113,6 +115,7 @@ font:62.5% verdana, arial, sans-serif;	 /* This sets the resolution for the site
 currently 1em = 10px. */
 color:#000;
 }
+/*
 a {
 text-decoration:none;
 color:#000;
@@ -121,6 +124,7 @@ background:url(underline.gif) bottom repeat-x;
 a:hover {
 color:#000;
 }
+*/
 p, h2 {
 font-size:1.3em;
 line-height:1.5em;	
